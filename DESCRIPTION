@@ -1,0 +1,14 @@
+Package: game
+Type: Package
+Title: Learn R Package - lesson01 - just a game
+Version: 0.1.0
+Author: Anlans
+Maintainer: The package maintainer <shiaqiang2@gmail.com>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    tcltk
+RoxygenNote: 7.2.3
